@@ -1,5 +1,5 @@
 <h3>Nagios plugin to check state of Couchbase nodes</h3>
-Python script which sends GET request to couchbase cluster REST api: http://cluster_dns/pools/nodes"
+Python script which sends GET request to couchbase cluster REST api: http://cluster_dns/pools/nodes
 <pre>
 Usage: check_couchbase_node.py [OPTIONS]
 
